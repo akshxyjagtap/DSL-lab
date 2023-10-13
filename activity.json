@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "62bbe9c6c71c2969b95edb83"
+  },
+  "step": 2,
+  "activityId": {
+    "$oid": "62261a458f7cbafe52c80bbe"
+  },
+  "description": "Make stories with the toys and talk to both the child and plushie.",
+  "lastUpdatedDtm": {
+    "$date": "2022-06-29T11:27:26.449Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea14c48b187863211871"
+  },
+  "step": 1,
+  "activityId": {
+    "$oid": "622985e6541903afc8a44f1b"
+  },
+  "description": "When your baby is on tummy time, pick him/her up gently and wrap him/her 2-3 times with soft strings of wool.",
+  "lastUpdatedDtm": {
+    "$date": "2022-06-29T11:28:44.454Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea14c48b187863211874"
+  },
+  "step": 4,
+  "activityId": {
+    "$oid": "622985e6541903afc8a44f1b"
+  },
+  "description": "Provide any assistance if required.",
+  "lastUpdatedDtm": {
+    "$date": "2022-06-29T11:28:44.661Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea15c48b18786321187a"
+  },
+  "step": 2,
+  "activityId": {
+    "$oid": "62298fd0612cb07c48ea4720"
+  },
+  "description": "Let your baby kick, get creative and make his own songs using it.",
+  "lastUpdatedDtm": {
+    "$date": "2023-09-19T15:27:10Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea17c48b18786321188c"
+  },
+  "step": 3,
+  "activityId": {
+    "$oid": "622c27ea4b990562194de901"
+  },
+  "description": "Juggle with the balls (if possible) and show your baby how different objects can move in different directions- up, down, right, left, etc.",
+  "lastUpdatedDtm": {
+    "$date": "2022-06-29T11:28:47.373Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea1ac48b1878632118a9"
+  },
+  "step": 3,
+  "activityId": {
+    "$oid": "6259501e70ae3d1483c73252"
+  },
+  "description": "From a point above your baby's head, hang the bundle so that it is within your baby's reach.",
+  "lastUpdatedDtm": {
+    "$date": "2023-07-27T19:52:25Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea1bc48b1878632118b1"
+  },
+  "step": 2,
+  "activityId": {
+    "$oid": "625c3118b7e78a062bb8adcb"
+  },
+  "description": "Wrap the toy in wrapping paper and tie it with a colourful ribbon. ",
+  "lastUpdatedDtm": {
+    "$date": "2022-06-29T11:28:51.148Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea1bc48b1878632118b4"
+  },
+  "step": 1,
+  "activityId": {
+    "$oid": "625c31deb7e78af76ab8adce"
+  },
+  "description": "When your baby is on tummy time, pick him up gently and wrap him 2-3 times with soft strings of wool. ",
+  "lastUpdatedDtm": {
+    "$date": "2022-06-29T11:28:51.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea1bc48b1878632118b5"
+  },
+  "step": 2,
+  "activityId": {
+    "$oid": "625c31deb7e78af76ab8adce"
+  },
+  "description": "Give him the freedom to explore the tangles and let him come out of this maze himself. You can provide any assistance if required.",
+  "lastUpdatedDtm": {
+    "$date": "2022-06-29T11:28:51.485Z"
+  }
+},{
+  "_id": {
+    "$oid": "62bbea1dc48b1878632118c8"
+  },
+  "step": 1,
+  "activityId": {
+    "$oid": "625c3c6e9462097c0a589972"
+  },
+  "description": "Grab an old carton and fill it with toys. ",
+  "lastUpdatedDtm": {
+    "$date": "2023-09-06T08:02:27Z"
+  }
+}]
